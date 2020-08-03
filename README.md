@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hey 👀
 
-<!--
-**jonathborg/jonathborg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Joe, a software developer currently focused on Javascript, Typescript, DevOps and Entrepreneurship.
 
-Here are some ideas to get you started:
+✍ Some phrases I like 📒
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming experience doesn't mean you don't create bugs, it means you recognize them quickly.
+
+Nothing in this world beats persistence and determination.
+
+First, recognize the problem, then solve the problem, and finally, create the best solution of all.
+
+
+🌍 You can find me at 👇
+
+Twitter: [@jonathborg](https://twitter.com/jonathborg)
+
+Instagram: [jonathborg](https://www.instagram.com/jonathborg)
